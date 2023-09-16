@@ -1,6 +1,6 @@
 # machadinhos
 
-Welcome to my GitHub profile! 👋 <br>
+Welcome to my GitHub profile! 👋<br>
 I'm an ambicious Junior developer, always working to improve my skills.
 
 ## My current programming skills
