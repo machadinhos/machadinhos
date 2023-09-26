@@ -37,6 +37,4 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/> </a>
 </p>
 
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=machadinhos&show_icons=true&locale=en&layout=compact" alt="machadinhos" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=machadinhos&" alt="machadinhos" /></p>
